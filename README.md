@@ -5,15 +5,10 @@ This web application allows users to know value of triangle using side measureme
 Mohamed Hassan Mohamed
 
 ## Project Description
-This is a web application of Triangle Tracker that allows the user to help find three types of triangles;
- 1.Equilateral triangle
- 2.Isosceles triangle
- 3.Scalene triangle
+This is a web application of Triangle Tracker that allows the user to help find three types of triangles; Equilateral triangle, Isosceles triangle, Scalene triangle
 
 ## Technologies Used
-1.JavaScript
-2.Html
-3.Css
+JavaScript, Html, Css
 
 ## Project Setup Installation
 You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository under and get to work. Copy the https. From terminal use $ git clone ...............
