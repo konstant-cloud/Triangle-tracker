@@ -16,7 +16,7 @@ This is a web application of Triangle Tracker that allows the user to help find 
 3.Css
 
 ##Project Setup Installation
-You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository under and get to work. Copy the https. From terminal use $ git clone ...............
+You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository under and get to work. Copy the https. From terminal use $ git clone .............
 
 ###BDD
 The user fills in one or two fields only no answer unless the user fills all the fields.
