@@ -8,13 +8,13 @@ function tracker(){
 
   if(x+y>z && z+x=y && z+y=x){
     else if(x==y || y==z || z==x){
-      response.innerHTML = "it's equilateral triangle"
+      response.innerHTML = "it's Equilateral triangle"
     }
     else if (x==y || y==z || z==x){
-      responseinnerHTML = "it's isosceles triangle"
+      responseinnerHTML = "it's Isosceles triangle"
     }
     else (){
-      response.innerHTML = "scelene"
+      response.innerHTML = "it's Scelene triangle"
     }
   }
 }
