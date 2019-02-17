@@ -5,7 +5,7 @@ This web application allows users to know value of triangle using side measureme
 Mohamed Hassan Mohamed
 
 ## Project Description
-This is a web application of Triangle Tracker that allows the user to help find three types of triangles; Equilateral triangle, Isosceles triangle, Scalene triangle
+This is a web application of Triangle Tracker that allows the user to help find three types of triangles; Equilateral triangle, Isosceles triangle, Scalene triangle.
 
 ## Technologies Used
 JavaScript, Html, Css
