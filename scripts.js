@@ -13,6 +13,7 @@ function tracker(){
     else if (x==y || y==z || z==x){
       responseinnerHTML = "it's Isosceles triangle"
     }
+    
     else (){
       response.innerHTML = "it's Scelene triangle"
     }
