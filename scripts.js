@@ -7,7 +7,7 @@ function tracker() {
 
 
   if (triangles[0] + triangles[1] <= triangles[2] || triangles[0] + triangles[2] <= triangles[1] || triangles[1] + triangles[2] <= triangles[0]) {
-    document.getElementById("response").innerHTML = "A triangle can not be formed from these dimensions ";
+    document.getElementById("response").innerHTML = "A triangle can not be formed from these dimensions. ";
   } else if (triangles[0] === triangles[1] && triangles[1] === triangles[2] && triangles[0] === triangles[2]) {
     // response.innerHTML = 'Equilateral triangle'
     document.getElementById("response").innerHTML = "Equilateral triangle.";
