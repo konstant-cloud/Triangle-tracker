@@ -1,10 +1,12 @@
 .mo {
-text-align: center;
-font-size: 50px;
+  text-align: center;
+  font-size: 50px;
 }
+
 body {
   background-color: #ffcccc;
 }
+
 .contain {
   text-align: center;
   background-color: #ffffff;
@@ -14,10 +16,12 @@ body {
   margin-left: 20%;
   margin-right: 20%;
 }
+
 p {
   font-style: italic;
   font-size: 30px;
 }
+
 li {
   font-size: 20px;
 }
